@@ -11,6 +11,15 @@ div h3{
     right: 0;
     background-color: crimson;
 }
+#chicken{
+    background-color: yellow;
+}
+#fish{
+    background-color: teal;
+}
+#egg{
+    background-color: violet;
+}
 header{
     font-size: 30px;
     text-align: center;
